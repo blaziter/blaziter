@@ -1,4 +1,4 @@
-<h1 align="center">Me is blaziter</h1>
+<h1 align="center">Me is Petr Tran</h1>
 <h3 align="center">I love MERN stack</h3>
 
 - 🔭 I’m currently working on [Twitchslayer](https://www.github.com/blaziter/twitchslayer)
