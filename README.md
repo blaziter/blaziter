@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [Twitchslayer](https://www.github.com/blaziter/twitchslayer)
 
+- 🤩 My interest is **MERN stack**
+
 - 🌱 I’m currently learning **Java, React Native, React**
 
 - 📫 How to reach me **blazitercz@gmail.com**
