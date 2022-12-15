@@ -4,7 +4,7 @@
 <h1 align="center">Petr Tran, nickname: blaziter</h1>
 <h3 align="center">I love MongoDB, Express.js, React, Node.js stack</h3>
 
-- 🔭 I’m currently working on [Twitchslayer](https://www.github.com/blaziter/twitchslayer)
+- 🔭 I’m currently working on [Twitchslayer mobile](https://www.github.com/blaziter/twitchslayer-mobile)
 
 - 🤩 My interest is **MERN stack**
 
