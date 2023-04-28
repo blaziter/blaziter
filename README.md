@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, React Native, React**
 
-- 📄 Know about my experiences **finishing Maturita exams in secondary technical school, made a few projects while being a student**
+- 📄 Know about my experiences **finishing Maturita exams in secondary technical school, made a few projects while attending the school**
 
 - ⚡ Fun fact **I'd love to be a frontend developer, but wouldn't turn down a job related to backend development**
 
