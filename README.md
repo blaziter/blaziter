@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/85119621/195597632-965fe77f-b306-48c5-9a0f-5eff650210d1.png" width=256 />
-</p>
 <h1 align="center">Petr Tran, nickname: blaziter</h1>
 <h3 align="center">I love MongoDB, Express.js, React, Node.js stack</h3>
 
