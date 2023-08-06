@@ -1,11 +1,13 @@
 <h1 align="center">Petr Tran</h1>
 <h3 align="center">I love MongoDB, Express.js, React, Node.js stack</h3>
 
-- 🔭 I’m currently working in [NFCtron](https://www.nfctron.com/)
+- 🔭 I currently work for [NFCtron](https://www.nfctron.com/) as Fullstack Developer
 
 - 🤩 My interest is **MERN stack**
 
-- 🌱 I’m currently learning **Java, React Native, React**
+- I have basic knowledge of **Java, React Native, C, Linux**
+
+- 🌱 I’m currently improving in **React (Frontend) and Nest.js (Backend)**
 
 - 📄 Know about my experiences **finishing Maturita exams in secondary technical school, made a few projects while I had attended the school**
 
