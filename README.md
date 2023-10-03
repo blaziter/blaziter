@@ -1,7 +1,7 @@
 <h1 align="center">Petr Tran</h1>
 <h3 align="center">I love MongoDB, Express.js, React, Node.js stack</h3>
 
-- 🔭 I currently work for [NFCtron](https://www.nfctron.com/) as Fullstack Developer
+- 🔭 I currently work for [NFCtron](https://www.nfctron.com/) as Frontend Developer
 
 - 🤩 My interest is **MERN stack**
 
