@@ -98,5 +98,10 @@
 
 <img src="https://raw.githubusercontent.com/blaziter/blaziter/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/blaziter/count.svg?"  />
+</div>
 
 ###
