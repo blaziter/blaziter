@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Petr Tran and I'm a Frontend Developer, from Czechia</h2>
-
 ###
 
 <div align="center">
